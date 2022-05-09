@@ -1,0 +1,3 @@
+[submodule "authentication"]
+	path = authentication
+	url = git@github.com:pahany4/authentication.git
